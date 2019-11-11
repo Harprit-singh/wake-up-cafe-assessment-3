@@ -1,0 +1,291 @@
+body{
+    height: 100%;
+    background-color:PapayaWhip ;
+    
+}
+.bgimg
+{
+    background-position: center;
+    background-size:cover;
+    background-image:url(http://getwallpapers.com/wallpaper/full/0/f/b/1112696-new-cafe-wallpaper-1920x1080-macbook.jpg);
+    min-height: 75%;
+    background-repeat: no-repeat;
+}
+.container
+{
+    position:absolute;
+    margin: 60px;
+    width: auto;
+    padding: 60px;
+}
+.topnav
+{
+    overflow:hidden;
+    background-color:black;
+    display: flex;
+    
+
+}
+.topnav a{
+    float: left;
+    color:white;
+    text-align: center;
+    padding: 12px 15px;
+    text-decoration-line: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.text
+{
+    font-size:90px;
+    font-family:fantasy;
+    font-style: italic;
+    mix-blend-mode: screen;
+    color:white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+}
+.time
+{
+    box-sizing: inherit;
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    position: fixed;;
+    bottom: 6px;
+    left: 16px;
+}
+.add
+{
+   
+    color:red;
+    background-color: yellow;
+    box-sizing:inherit;
+    text-align:center;
+    position: fixed;
+    bottom: 6px;
+    right: 23px;
+
+}
+.ABOUT
+{
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+    font-family: "Segoe UI",Arial,sans-serif;
+    background-color: #ccc;
+    padding-top: 64px;
+    padding-bottom: 64px;
+
+}
+.about{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    
+
+}
+h5
+{ 
+    text-align: center;  
+    font-size: 30px;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: inherit;
+    margin-top: 16px;
+    margin-bottom: 16px;    
+}
+img
+{
+    vertical-align: middle;
+    border-style: none;
+}
+
+.wrapper
+{
+    border-left: 6px solid #ccc;
+    box-sizing: inherit;
+    color: #000;
+    background-color: #f1f1f1;
+    
+}
+.content
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu{
+    padding: 0.01em 16px;
+    box-sizing: inherit;
+    color: black;
+}
+.center
+{
+    padding-top: 48px;
+    padding-bottom: 48px;
+    text-align: center;
+    font-size :45px ;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+.Menu
+{
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+    letter-spacing: 4px;
+
+
+}
+a
+{
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: underline;
+    text-align: center;
+}
+
+}
+
+
+}
+
+}
+h5
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400%;
+    margin: 10px;
+    font-size: 20px;
+    display: blocwrapperk;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.menu
+{
+  width: auto;
+  height: auto;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+.List
+{
+    
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.25rem;
+    color:white;
+    background-color:violet;
+}
+
+
+p
+{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu-title
+{
+ font-size: 2.5rem;
+ padding-bottom: 1.5rem;
+}
+
+img{
+    vertical-align: center;
+    border-style:none;
+    
+    
+}
+
+h2{
+    color:maroon;
+    font-family: cursive;
+}
+
+ p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; 
+ }
+ .text
+ {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center; 
+ }
+ strong{
+     font-weight: bolder;
+     font-size: 25px;
+
+     
+ }
+
+ .coffee-img--wrapper {
+     max-width: 1080px;
+     margin: 0 auto;
+ }
+ .coffee-img {
+     width: 100%;
+     height: auto;
+ }
+
+ }
+ form
+ {
+     display:block;
+     margin-top: 0em;
+ }
+ .input-table
+{ padding-top: 20px;
+  padding-bottom:20px;
+  border: 6px solid #ccc;
+  display: block;
+  padding: 12px;
+  overflow:visible;
+  text-align: center;  
+}
+button
+{
+    color: #fff;
+    background-color: #000;
+}
+.nothing
+{
+    background-color: lightskyblue;
+
+}
+h4
+{ 
+  font-style: italic;  
+  font-size: medium;
+  font-family: cursive;
+  text-align: center;;
+}
