@@ -57,7 +57,7 @@ body{
     padding-left: 3px;
     padding-right: 3px;
     text-align: center;
-    position: fixed;;
+    position: fixed;
     bottom: 6px;
     left: 16px;
 }
@@ -85,8 +85,8 @@ body{
 
 }
 .about{
-    padding-top: 64px;
-    padding-bottom: 64px;
+    padding-top: 5px;
+    padding-bottom: 55px;
     
 
 }
@@ -120,38 +120,8 @@ img
     background-color: #f1f1f1;
     
 }
-.content
-{
-    margin-left: auto;
-    margin-right: auto;
-}
-.menu{
-    padding: 0.01em 16px;
-    box-sizing: inherit;
-    color: black;
-}
-.center
-{
-    padding-top: 48px;
-    padding-bottom: 48px;
-    text-align: center;
-    font-size :45px ;
-    font-family: "Segoe UI",Arial,sans-serif;
-    font-weight: 400;
-    margin: 10px 0;
-}
-.Menu
-{
-    background-color: #000;
-    color: #fff;
-    display: inline-block;
-    padding-left: 8px;
-    padding-right: 8px;
-    text-align: center;
-    letter-spacing: 4px;
 
 
-}
 a
 {
     color: inherit;
@@ -161,12 +131,6 @@ a
     text-align: center;
 }
 
-}
-
-
-}
-
-}
 h5
 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -179,45 +143,21 @@ h5
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
-.menu
-{
-  width: auto;
-  height: auto;
-  padding: 10px;
-  margin: 0;
-  text-align: center;
-}
-.List
-{
-    
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.25rem;
-    color:white;
-    background-color:violet;
-}
-
 
 p
-{
+ {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.menu-title
-{
- font-size: 2.5rem;
- padding-bottom: 1.5rem;
-}
+ }
 
 img{
     vertical-align: center;
     border-style:none;
-    
-    
+       
 }
 
 h2{
@@ -239,29 +179,40 @@ h2{
     display: inline-block;
     padding-left: 8px;
     padding-right: 8px;
-    text-align: center; 
+    text-align: center;
+    
  }
  strong{
      font-weight: bolder;
      font-size: 25px;
-
-     
+    
  }
 
  .coffee-img--wrapper {
      max-width: 1080px;
      margin: 0 auto;
+     padding: 10%;
  }
  .coffee-img {
      width: 100%;
      height: auto;
  }
 
+ .booking
+ {
+     border: 20px solid grey;
+     background-color: lightgrey;
+     padding: 12px;
+     text-align: center;
+     margin-bottom: 8%;
+     
  }
  form
  {
      display:block;
      margin-top: 0em;
+     text-align: center;
+     padding-left: 40%;
  }
  .input-table
 { padding-top: 20px;
@@ -270,18 +221,31 @@ h2{
   display: block;
   padding: 12px;
   overflow:visible;
-  text-align: center;  
+  text-align: center;
+    
 }
-button
+.box
 {
     color: #fff;
     background-color: #000;
+    border: 2px solid red;
+    margin-left: -35rem;
 }
+
 .nothing
-{
-    background-color: lightskyblue;
+{ 
+    border: 2px solid black;
+    text-align: center;
+    color: wheat;
+    background-color:brown;
+    font-size: 30px;
+    font-family: cursive;
+    margin-bottom: 2%;
+    padding:1%,
 
 }
+
+
 h4
 { 
   font-style: italic;  
