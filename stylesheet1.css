@@ -95,8 +95,9 @@ img{
 }
 iframe{
     margin-top: 1%; 
-    padding-left: 35%;
-   
+    padding-left: 34%;
+    display: 0 none;
+  
 }
 .footer
 {
