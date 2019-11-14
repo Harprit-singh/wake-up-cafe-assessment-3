@@ -79,7 +79,7 @@ body{
     margin-right: auto;
     line-height: 1.5;
     font-family: "Segoe UI",Arial,sans-serif;
-    background-color: #ccc;
+    background-color:papayawhip;
     padding-top: 64px;
     padding-bottom: 64px;
 
@@ -114,10 +114,10 @@ img
 
 .wrapper
 {
-    border-left: 6px solid #ccc;
+    
     box-sizing: inherit;
     color: #000;
-    background-color: #f1f1f1;
+    background-color: papayawhip;
     
 }
 
@@ -137,7 +137,6 @@ h5
     font-weight: 400%;
     margin: 10px;
     font-size: 20px;
-    display: blocwrapperk;
     margin-block-start: 1.67em;
     margin-block-end: 1.67em;
     margin-inline-start: 0px;
@@ -184,8 +183,7 @@ h2{
  }
  strong{
      font-weight: bolder;
-     font-size: 25px;
-    
+     font-size: 20px;  
  }
 
  .coffee-img--wrapper {
@@ -228,8 +226,7 @@ h2{
 {
     color: #fff;
     background-color: #000;
-    border: 2px solid red;
-    margin-left: -35rem;
+    margin-left: -44rem;
 }
 
 .nothing
